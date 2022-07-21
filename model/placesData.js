@@ -34,4 +34,4 @@ required: true
     },
 
 });
-module.exports = mongoose.model('placesData', placeSchema,'placesData')
+module.exports = mongoose.model('PlacesData', placeSchema,'PlacesData')

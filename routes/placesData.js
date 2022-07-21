@@ -15,4 +15,4 @@ router.get("/place",getData)
 
 
 
-module.exports = router
+module.exports = router 
